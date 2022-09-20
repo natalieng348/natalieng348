@@ -12,8 +12,6 @@
 
 ⚡ Fun fact: I'm a cat lover (can't you tell?)
 
-<br>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
