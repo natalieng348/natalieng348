@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello there! 👋🐈🐾</h1>
 
-🎓 I'm an aspiring Data Scientist passionate about technology, data, product and creative thingking 💡💭 
+✨ I'm an aspiring Data Scientist passionate about technology, data, product and creative thingking 💡💭 
 
 🌱 I'm currently learning SQL, Python, and Machine Learning
 
