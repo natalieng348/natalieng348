@@ -1,4 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/96028654/191375984-278d0278-2ed3-448f-b48a-6d86eed97f7b.png)
+![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/96028654/191464598-07609065-2c15-402b-8ff3-424c0378ed60.png)
 
 <br>
 
