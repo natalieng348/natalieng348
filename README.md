@@ -5,6 +5,7 @@
 <h1 align="left">Welcome to my Github page! 👋🐈🐾</h1>
 
 <h3 align="left">Connect with me:</h3>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/natalieng348)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalie-nguyen-001)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:natalieng348@gmail.com)
