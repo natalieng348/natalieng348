@@ -14,7 +14,7 @@
 
 🌱 I'm currently learning SQL, Python, and Machine Learning
 
-📨 For collaboration or other inquiries, reach me via email or LinkedIn
+📨 For collaboration or other inquiries, reach me via [email](mailto:natalieng348@gmail.com) or [LinkedIn](https://www.linkedin.com/in/natalie-nguyen-001)
 
 ---
 
