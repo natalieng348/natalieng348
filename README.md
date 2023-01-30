@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalie-nguyen-001)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:natalieng348@gmail.com)
 
-✨ I'm an aspiring Data Scientist passionate about technology, data, product and creative thingking 💡💭 
+✨ I'm an aspiring Data Scientist passionate about technology, data, product and creative thinking 💡💭 
 
 🌱 I'm currently learning SQL, Python, and Machine Learning
 
